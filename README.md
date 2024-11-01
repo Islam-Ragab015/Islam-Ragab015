@@ -20,11 +20,15 @@
 
 - 👨‍💻 All of my projects are available at **[My Repository](https://github.com/Islam-Ragab015?tab=repositories)**.
 
-<br>
+
+## 📄 My Resume:
+
+🌟 Want to see my journey? Check out my resume!  
+[Download My Resume](https://drive.google.com/drive/folders/11ATSzyw-cuNiW1_TzcsJfl9aqcMPCQvP?usp=sharing) 
+
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+    <img src="https://img.shields.io/badge/Resume-0077B5?style=for-the-badge&logo=googledrive&logoColor=white" />
 </div>
-<br>
 
 ## 🚀 Languages and Tools:
 <div align="center">
