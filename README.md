@@ -83,7 +83,7 @@
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
-<br>
+<be>
 
 ## 🤝 Connect With Me:
 
@@ -91,7 +91,7 @@
     <a href="https://www.linkedin.com/in/islam-elsherif/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="islaminreallife@gmail.com">
+    <a href="mailto:islaminreallife@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
     </a>
     <a href="https://mostaql.com/u/Islam_Elsherif" target="_blank">
@@ -102,11 +102,6 @@
     </a>
 </div>
 
-<br>
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-<br>
 
 ## 💜 Views and Followers:
 
