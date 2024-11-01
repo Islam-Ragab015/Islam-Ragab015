@@ -92,7 +92,7 @@
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="mailto:islaminreallife@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
     </a>
     <a href="https://mostaql.com/u/Islam_Elsherif" target="_blank">
         <img src="https://img.shields.io/badge/Mostaql-0077B5?style=for-the-badge&logoColor=white" />
