@@ -24,11 +24,15 @@
 ## 📄 My Resume:
 
 🌟 Want to see my journey? Check out my resume!  
-[Download My Resume](https://drive.google.com/drive/folders/11ATSzyw-cuNiW1_TzcsJfl9aqcMPCQvP?usp=sharing) 
+- 📥 [Download as PDF](https://drive.usercontent.google.com/download?id=11R4PcXQYOCtYlV2NJ1x5JvzvySmIWEx7&export=download&authuser=1&confirm=t&uuid=5b5fff14-3ca0-40a8-ab87-0051a56207d9&at=AENtkXYD5s--LXvH2k3x1s0yquUj:1730460314963)  
+- 📥 [Download as DOCX](https://drive.usercontent.google.com/download?id=17P1qE9crhEuv9c2qv7L2j-zZExX6u4lc&export=download&authuser=1&confirm=t&uuid=37d56893-9847-4089-9ae1-d5a2501f8170&at=AENtkXaf1jNNTjEHLtMBPGg-jdUS:1730460422616)  
 
 <div align="center">
-    <img src="https://img.shields.io/badge/Resume-0077B5?style=for-the-badge&logo=googledrive&logoColor=white" />
+    <a href="https://drive.google.com/drive/folders/11ATSzyw-cuNiW1_TzcsJfl9aqcMPCQvP?usp=sharing" target="_blank">
+        <img src="https://img.shields.io/badge/Resume-0077B5?style=for-the-badge&logo=googledrive&logoColor=white" />
+    </a>
 </div>
+
 
 ## 🚀 Languages and Tools:
 <div align="center">
