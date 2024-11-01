@@ -139,7 +139,13 @@
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 
-## 🤝 Connect With Me
+### 📈 GitHub Activity Graph:
+
+<!--   green snake -->
+
+![idimetrix's github activity graph](https://raw.githubusercontent.com/idimetrix/idimetrix/output/github-contribution-grid-snake.svg)
+
+## 🔎 You can find me on:
 
 <div align="center">
     <a href="https://www.linkedin.com/in/islam-elsherif/" target="_blank">
@@ -156,6 +162,12 @@
     </a>
 </div>
 
+## 🙏 Support My Projects
+"If you find this project useful, please give it a star! Your support helps me to keep improving and maintaining this project. Thank you!"
+
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+😊;Keep+coding+and+creating+cool+stuff!;" />
