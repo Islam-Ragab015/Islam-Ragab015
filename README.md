@@ -1,8 +1,8 @@
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Helo+World!+👋;+I'm+Islam+Elsherif+😎;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Islam+Elsherif+😎;" />
 </div>
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
 <br>
 
@@ -11,13 +11,13 @@
 - 🔭 I’m **Software Engineer** | **Mobile App Developer** | **Intern @ DEPI**.
 
 - 🌱 I’m currently learning **Advanced Flutter**.
- 
-- 🤔   Exploring new technologies and developing software solutions and quick hacks
-  
-- ☕   I believe, a perfect cup of coffee can be the ultimate solution for any stress.
 
-- • 💬 Ask me about Anything, honestly, I love knowledge and learning new things
- 
+- 🤔   Exploring new technologies and developing software solutions and quick hacks.
+
+- ☕   I believe a perfect cup of coffee can be the ultimate solution for any stress.
+
+- 💬 Ask me about Anything, honestly, I love knowledge and learning new things.
+
 - 👨‍💻 All of my projects are available at **[My Repository](https://github.com/Islam-Ragab015?tab=repositories)**.
 
 <br>
@@ -28,8 +28,39 @@
 
 ## 🚀 Languages and Tools:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,cpp,java,python" />
-    <img src="https://skillicons.dev/icons?i=github,androidstudio,vscode,figma,postman" /><br>
+    <a href="https://flutter.dev/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=flutter" />
+    </a>
+    <a href="https://dart.dev/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=dart" />
+    </a>
+    <a href="https://firebase.google.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=firebase" />
+    </a>
+    <a href="https://en.cppreference.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=cpp" />
+    </a>
+    <a href="https://www.java.com/en/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=java" />
+    </a>
+    <a href="https://www.python.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=python" />
+    </a>
+    <a href="https://github.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=github" />
+    </a>
+    <a href="https://developer.android.com/studio" target="_blank">
+        <img src="https://skillicons.dev/icons?i=androidstudio" />
+    </a>
+    <a href="https://code.visualstudio.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=vscode" />
+    </a>
+    <a href="https://www.figma.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=figma" />
+    </a>
+    <a href="https://www.postman.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=postman" />
+    </a>
 </div>
 
 <br>
@@ -58,7 +89,7 @@
 
 <div align="center">
     <a href="https://www.linkedin.com/in/islam-elsherif/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="mailto:islaminreallife@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
