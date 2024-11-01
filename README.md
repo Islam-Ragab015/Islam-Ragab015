@@ -2,16 +2,20 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Helo+World!+👋;+I'm+Islam+Elsherif+😎;" />
 </div>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400" height="300"/>
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400" height="350" />
 
 <br>
 
 ## 🙋‍♂️ About Me:
 
-- 🔭 I’m currently working as a **Software Engineer 💻** | **Mobile Application Developer 📱**.
+- 🔭 I’m **Software Engineer** | **Mobile App Developer** | **Intern @ DEPI**.
 
 - 🌱 I’m currently learning **Advanced Flutter**.
-
+ 
+- 🤔   Exploring new technologies and developing software solutions and quick hacks
+  
+- ☕   I believe, a perfect cup of coffee can be the ultimate solution for any stress.
+ 
 - 👨‍💻 All of my projects are available at **[My Repository](https://github.com/Islam-Ragab015?tab=repositories)**.
 
 <br>
