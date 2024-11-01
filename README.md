@@ -91,17 +91,14 @@
     <a href="https://www.linkedin.com/in/islam-elsherif/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="mailto:islaminreallife@gmail.com">
+    <a href="islaminreallife@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
     </a>
-    <a href="https://mostaql.com/u/islamelsherif/portfolio">
-        <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logoColor=white" />
+    <a href="https://mostaql.com/u/Islam_Elsherif" target="_blank">
+        <img src="https://img.shields.io/badge/Mostaql-0077B5?style=for-the-badge&logoColor=white" />
     </a>
-    <a href="https://youtube.com/@islamelsherif">
-        <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white" />
-    </a>
-    <a href="https://t.me/islamelsherif">
-        <img src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white" />
+    <a href="https://www.facebook.com/profile.php?id=100094027563398" target="_blank">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
     </a>
 </div>
 
