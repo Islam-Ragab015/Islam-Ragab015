@@ -36,4 +36,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=islam-ragab015&show_icons=true&locale=en" alt="islam-ragab015" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=islam-ragab015&" alt="islam-ragab015" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Islam-Ragab015&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
