@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Helo+World!+👋;+I'm+Islam+Elsherif+😎;" />
 </div>
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400" height="350" />
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 <br>
 
@@ -15,6 +15,8 @@
 - 🤔   Exploring new technologies and developing software solutions and quick hacks
   
 - ☕   I believe, a perfect cup of coffee can be the ultimate solution for any stress.
+
+- • 💬 Ask me about Anything, honestly, I love knowledge and learning new things
  
 - 👨‍💻 All of my projects are available at **[My Repository](https://github.com/Islam-Ragab015?tab=repositories)**.
 
