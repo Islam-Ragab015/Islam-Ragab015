@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **advanced Flutter techniques, including state management, Firebase integration, and custom animations**
 
-- 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/islam-elsherif/)
-
 - 🤝 I’m looking for help with [Murshid](https://github.com/Islam-Ragab015/murshid)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Islam-Ragab015?tab=repositories](https://github.com/Islam-Ragab015?tab=repositories)
