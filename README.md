@@ -19,24 +19,6 @@
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 
-
-## 📄 My Resume
-
-🌟 Interested in my journey? Download my resume!  
-- 📥 [Download as PDF](https://drive.usercontent.google.com/download?id=11R4PcXQYOCtYlV2NJ1x5JvzvySmIWEx7&export=download)  
-- 📥 [Download as DOCX](https://drive.usercontent.google.com/download?id=17P1qE9crhEuv9c2qv7L2j-zZExX6u4lc&export=download)
-
-<div align="center">
-    <a href="https://drive.google.com/drive/folders/11ATSzyw-cuNiW1_TzcsJfl9aqcMPCQvP?usp=sharing" target="_blank">
-        <img src="https://img.shields.io/badge/Resume-0077B5?style=for-the-badge&logo=googledrive&logoColor=white" />
-    </a>
-</div>
-
-
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-
 ## 📊 My Stats
 
 <div align="center">
@@ -67,7 +49,7 @@
 
  **Highlights:**
 
-- ⭐ Recent graduate with a Bachelor’s degree in Computer Science and Information Systems.
+- ⭐ Recent graduate with a Bachelor’s in Computer Science and Information Systems.
 - ⭐ Completed a certification in Flutter development from the Information Technology Institute (ITI).
 - ⭐ Developed multiple Flutter applications that demonstrate my skills in mobile app development.
 - ⭐ Engaged in collaborative projects during my internship at DEPI, contributing to team success.
@@ -79,7 +61,7 @@
 - 📚 Flutter & Dart for mobile app development.
 - 📚 Firebase for backend services and real-time databases.
 - 📚 State Management using BLoC and Cubit.
-- 📚 UI/UX design principles, with a focus on responsive and modern interfaces.
+- 📚 UI/UX design principles, focusing on responsive and modern interfaces.
 - 📚 Git and GitHub for version control and collaboration.
 - 📚 Experience with RESTful APIs and third-party integrations.
 - 📚 Agile methodologies, promoting efficient project management.
@@ -88,7 +70,7 @@
 
 - ✔️ Continuously exploring new technologies and trends in mobile app development.
 - ✔️ Engaging in personal projects to refine my skills and experiment with new ideas.
-- ✔️ Collaborating with others in the tech community to share knowledge and experiences.
+- ✔️ Collaborating with tech community members to share knowledge and experiences.
 
 **Big believer in:**
 
@@ -145,14 +127,28 @@
 
 ![idimetrix's github activity graph](https://raw.githubusercontent.com/idimetrix/idimetrix/output/github-contribution-grid-snake.svg)
 
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+
+
+## 📄 My Resume
+
+🌟 Interested in my journey? Download my resume!  
+- 📥 [Download as PDF](https://drive.usercontent.google.com/download?id=11R4PcXQYOCtYlV2NJ1x5JvzvySmIWEx7&export=download)  
+- 📥 [Download as DOCX](https://drive.usercontent.google.com/download?id=17P1qE9crhEuv9c2qv7L2j-zZExX6u4lc&export=download)
+
+<div align="center">
+    <a href="https://drive.google.com/drive/folders/11ATSzyw-cuNiW1_TzcsJfl9aqcMPCQvP?usp=sharing" target="_blank">
+        <img src="https://img.shields.io/badge/Resume-0077B5?style=for-the-badge&logo=googledrive&logoColor=white" />
+    </a>
+</div>
+
 ## 🔎 You can find me on:
 
 <div align="center">
     <a href="https://www.linkedin.com/in/islam-elsherif/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:islaminreallife@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
     </a>
     <a href="https://www.upwork.com/freelancers/~0161bd211ba2db010b" target="_blank">
         <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
