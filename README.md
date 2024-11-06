@@ -114,8 +114,8 @@ As a passionate Mobile App Developer, I specialize in creating high-quality appl
 ## 📄 My Resume
 
 🌟 Interested in my journey? Download my resume!  
-- 📥 [Download as PDF](https://drive.usercontent.google.com/download?id=11R4PcXQYOCtYlV2NJ1x5JvzvySmIWEx7&export=download)  
-- 📥 [Download as DOCX](https://drive.usercontent.google.com/download?id=17P1qE9crhEuv9c2qv7L2j-zZExX6u4lc&export=download)
+- 📥 [Download as PDF](https://drive.usercontent.google.com/download?id=1tR36pGt1UzviAOsIIUHSt7xA9Ykmx8MF&export=download&authuser=1&confirm=t&uuid=000aafca-0eca-4e46-8b29-ebd72eca4212&at=AENtkXb5FQATzuHqiYp71CgMRBfa:1730903969052)  
+- 📥 [Download as DOCX](https://drive.usercontent.google.com/download?id=1QSvgC8AM5c_sLFRzb61aOy022iqj569C&export=download&authuser=1&confirm=t&uuid=df45e425-946d-4fab-9644-e381013c05ba&at=AENtkXblLKurniediY2PNSHvY-oR:1730904041515)
 
 <div align="center">
     <a href="https://drive.google.com/drive/folders/11ATSzyw-cuNiW1_TzcsJfl9aqcMPCQvP?usp=sharing" target="_blank">
